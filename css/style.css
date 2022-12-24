@@ -1,0 +1,46 @@
+.bg-succes{
+    background: #23ad96;
+}
+.head-bg{
+    min-height: 70vh;
+    background: url(../imges/bg.jpg) no-repeat center/cover;
+}
+.text-oran{
+    color: rgb(226, 62, 2);
+}
+.bg-oran{
+    background: rgb(228, 98, 50);
+}
+.up-nav{
+    width: 20%;
+}
+/* //////////////// */
+.text-box{
+    width: 20vw;
+}
+/* ////////////////// */
+.pros{
+    background: url(../imges/process-bg.jpg) no-repeat center/cover;
+}
+.pros .pros1{
+    background: url(../imges/p-bg1.jpg) no-repeat center/cover;
+}
+.pros .pros2{
+    background: url(../imges/p-bg2.jpg) no-repeat center/cover;
+}
+.pros .pros3{
+    background: url(../imges/p-bg3.jpg) no-repeat center/cover;
+}
+.pros .pros4{
+    background: url(../imges/p-bg4.jpg) no-repeat center/cover;
+}
+.bg-lightgray{
+    background: lightgray;
+}
+.btn-outline-wight{
+    color: #fff;
+    border: 1px solid #fff;
+}
+.up-nav{
+    width: 20%;
+}
